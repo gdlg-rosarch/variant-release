@@ -1,6 +1,6 @@
-## ros-variant (indigo) - 0.1.1-0
+## variant (indigo) - 0.1.1-0
 
-The packages in the `ros-variant` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo ros-variant --edit` on `Thu, 12 May 2016 10:57:51 -0000`
+The packages in the `variant` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo variant --edit` on `Thu, 12 May 2016 10:57:51 -0000`
 
 These packages were released:
 - `variant`
@@ -8,9 +8,9 @@ These packages were released:
 - `variant_topic_test`
 - `variant_topic_tools`
 
-Version of package(s) in repository `ros-variant`:
+Version of package(s) in repository `variant`:
 
-- upstream repository: https://github.com/ethz-asl/ros-variant.git
+- upstream repository: https://github.com/ethz-asl/variant.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
