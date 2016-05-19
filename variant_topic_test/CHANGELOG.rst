@@ -2,6 +2,12 @@
 Changelog for package variant_topic_test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2016-05-19)
+------------------
+* update readme with build status
+* remove cmake_modules dependency
+* Contributors: Samuel Bachmann
+
 0.1.1 (2016-05-12)
 ------------------
 * Fixes related to OS X clang compatibility
