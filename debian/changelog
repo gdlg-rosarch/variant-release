@@ -1,0 +1,21 @@
+ros-indigo-variant-msgs (0.1.2-0saucy) saucy; urgency=high
+
+  * update readme with build status
+  * Contributors: Samuel Bachmann
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Wed, 18 May 2016 22:00:00 -0000
+
+ros-indigo-variant-msgs (0.1.1-0saucy) saucy; urgency=high
+
+  * Message variant tests successful
+  * Refined traits, code cleanups
+  * 
+    
+      * Created test package
+      * Moved test binaries to test package
+    
+  * Contributors: Ralf Kaestner
+
+ -- Ralf Kaestner <ralf.kaestner@gmail.com>  Wed, 11 May 2016 22:00:00 -0000
+
+
