@@ -2,6 +2,11 @@
 Changelog for package variant_topic_test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-05-20)
+------------------
+* fix missing file extension
+* Contributors: Samuel Bachmann
+
 0.1.2 (2016-05-19)
 ------------------
 * update readme with build status
