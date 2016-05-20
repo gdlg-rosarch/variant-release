@@ -2,6 +2,9 @@
 Changelog for package variant_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-05-20)
+------------------
+
 0.1.2 (2016-05-19)
 ------------------
 * update readme with build status
