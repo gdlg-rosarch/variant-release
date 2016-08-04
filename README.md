@@ -1,3 +1,30 @@
+## variant (kinetic) - 0.1.3-0
+
+The packages in the `variant` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic variant --edit` on `Thu, 04 Aug 2016 08:54:36 -0000`
+
+These packages were released:
+- `variant`
+- `variant_msgs`
+- `variant_topic_test`
+- `variant_topic_tools`
+
+Version of package(s) in repository `variant`:
+
+- upstream repository: https://github.com/ethz-asl/variant.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## variant (jade) - 0.1.3-0
 
 The packages in the `variant` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade variant --edit` on `Thu, 04 Aug 2016 08:47:02 -0000`
