@@ -1,0 +1,12 @@
+Source: ros-jade-variant
+Section: misc
+Priority: extra
+Maintainer: Ralf Kaestner <ralf.kaestner@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: http://github.com/ethz-asl/ros-topic-variant
+Standards-Version: 3.9.2
+
+Package: ros-jade-variant
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-variant-msgs, ros-jade-variant-topic-test, ros-jade-variant-topic-tools
+Description: Meta-package for the universal variant library.
